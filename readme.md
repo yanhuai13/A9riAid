@@ -1,0 +1,1 @@
+Description: AgriAid is an agritech platform designed to assist farmers in maximizing crop yields through data-driven insights. It features weather prediction, soil health monitoring, and smart irrigation recommendations, all accessible via a mobile-friendly interface.

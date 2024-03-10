@@ -1,0 +1,26 @@
+{
+"name": "A9riAid",
+"version": "1.0.0",
+"description": "AgriAid",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/yanhuai13/A9riAid.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "yanhuai13",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
